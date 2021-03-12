@@ -17,3 +17,6 @@ Color background nav: #F3CCD0*/
 .text-carousel {
 	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif"; 
 }
+.categories {
+	text-align: center; 
+}
