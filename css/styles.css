@@ -1,4 +1,6 @@
 /* CSS Document */
+/*color background banner: #EF9FA0
+Color background nav: #F3CCD0*/ 
 .logo {
 	background: #EF9FA0; 
 }
@@ -7,7 +9,7 @@
 	
 }
 .nav {
-	background-color:#F3CCD0	
+	background-color:#F3CCD0;	
 }
 .nav-link {
 	color: white; 
