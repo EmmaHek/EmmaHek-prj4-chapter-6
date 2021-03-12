@@ -17,7 +17,7 @@ font-family categories: Baskerville, "Palatino Linotype", Palatino, "Century Sch
 }
 .text-carousel {
 	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
-	font-size: 300px;
+	font-size: 200px;
 }
 .categories {
 	margin-top: 50px;
@@ -26,4 +26,7 @@ font-family categories: Baskerville, "Palatino Linotype", Palatino, "Century Sch
 h5 {
 	text-align: center;
 	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+#font-size {
+	font-size: 40px;
 }
