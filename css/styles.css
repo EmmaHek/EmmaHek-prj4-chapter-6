@@ -35,8 +35,8 @@ h5 {
 	text-align: center;
 }
 .my-container {
-	border: dashed; 
-	border-color: palevioletred;
-	margin-left: 100px;
-	margin-right: 100px;
+	border: thick; 
+	border-color: black;
+	margin-left: 40px;
+	margin-right: 40px;
 }
