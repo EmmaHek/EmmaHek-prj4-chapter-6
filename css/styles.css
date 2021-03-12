@@ -34,8 +34,9 @@ h5 {
 	font-size: 75;
 	text-align: center;
 }
-.box {
-	border: medium;
-	border-color: black;
-	margin-top: 60px;
+.my-container {
+	border: dashed; 
+	border-color: palevioletred;
+	margin-left: 100px;
+	margin-right: 100px;
 }
