@@ -16,7 +16,7 @@ font-family categories: Baskerville, "Palatino Linotype", Palatino, "Century Sch
 	color: white; 
 }
 .text-carousel {
-	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif"; 
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
 }
 .categories {
 	margin-top: 50px;
