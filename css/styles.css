@@ -30,3 +30,12 @@ h5 {
 #font-size {
 	font-size: 40px;
 }
+.size {
+	font-size: 75;
+	text-align: center;
+}
+.box {
+	border: medium;
+	border-color: black;
+	margin-top: 30px;
+}
