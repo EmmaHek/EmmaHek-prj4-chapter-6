@@ -35,10 +35,9 @@ h5 {
 	text-align: center;
 }
 .my-container {
-	border: thick; 
-	border-color: black;
 	margin-left: 20px;
 	margin-right: 20px;
 	margin-top: 50px;
 	text-align: center;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
 }
