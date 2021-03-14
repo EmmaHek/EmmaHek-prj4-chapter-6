@@ -71,10 +71,13 @@ p {
 }
 .twitter {
 	width: 50px;
+	height: auto;
 }
 .instagarm {
-	width: 45px;
+	width: 55px;
+	height: auto;
 }
 .facebook {
 	width: 60px;
+	height: auto;
 }
