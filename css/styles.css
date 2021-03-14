@@ -61,8 +61,20 @@ p {
 	background-color: #FFD982;
 }
 .margin {
-	margin-top: 50px;
+	margin-top: 70px;
 }
 .footer {
 	background-color: #F3CCD0;
+}
+.logo-margin {
+	margin-top: 50px;
+}
+.twitter {
+	width: 50px;
+}
+.instagarm {
+	width: 45px;
+}
+.facebook {
+	width: 60px;
 }
