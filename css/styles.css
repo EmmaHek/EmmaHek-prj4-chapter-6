@@ -22,6 +22,7 @@ font-family categories: Baskerville, "Palatino Linotype", Palatino, "Century Sch
 .categories {
 	margin-top: 50px;
 	text-align: center; 
+	background-color: #FFD982;
 }
 h5 {
 	text-align: center;
@@ -52,4 +53,10 @@ h3 {
 }
 p {
 	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+.best-seller {
+	background-color: #F3CCD0; 
+}
+.our-bakers {
+	background-color: #FFD982;
 }
