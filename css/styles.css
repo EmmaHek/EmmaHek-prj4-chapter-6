@@ -87,3 +87,9 @@ p {
 	background-color: #FFD982;
 	background-size: cover;
 }
+.gallery {
+    float: left;
+    width:  100px;
+    height: 100px;
+    object-fit: cover;
+}
