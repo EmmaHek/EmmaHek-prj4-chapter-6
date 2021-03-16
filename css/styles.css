@@ -7,7 +7,7 @@ font-family categories: Baskerville, "Palatino Linotype", Palatino, "Century Sch
 	background: #EF9FA0; 
 }
 .logo img {
-	width: 250; 	
+	width: 250px; 	
 }
 .nav {
 	background-color:#F3CCD0;	
@@ -32,7 +32,7 @@ h5 {
 	font-size: 40px;
 }
 .size {
-	font-size: 75;
+	font-size: 75px; 
 	text-align: center;
 }
 .my-container {
