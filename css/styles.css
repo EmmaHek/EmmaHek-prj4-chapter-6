@@ -93,4 +93,5 @@ p {
     height: 250px;
     object-fit: cover;
 	overflow: hidden;
+	margin-top: 40px;
 }
