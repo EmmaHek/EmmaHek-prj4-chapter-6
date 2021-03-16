@@ -1,7 +1,7 @@
 /* CSS Document */
 /*color background banner: #EF9FA0
 Color background nav: #F3CCD0
-color background categories: 
+color background categories:#FFD982
 font-family categories: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";*/ 
 .logo {
 	background: #EF9FA0; 
@@ -82,4 +82,7 @@ p {
 }
 .logo-footer { 
 	margin-top: 25px;
+}
+.background-jumbotron {
+	background-color: #FFD982;
 }
