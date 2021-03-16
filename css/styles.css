@@ -85,4 +85,5 @@ p {
 }
 .background-jumbotron {
 	background-color: #FFD982;
+	background-size: cover;
 }
